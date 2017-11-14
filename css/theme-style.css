@@ -408,8 +408,14 @@ nav a#pull {
 	padding:2em 0 3em;
 }
 .features h2{
-	font-weight: 700;
+	font-weight: 600;
 	font-size: 3em;
+    color: #95c2d3;
+    font-variant: normal;
+    text-transform: uppercase;
+    margin-top: 10px;
+    text-align: center!important;
+    letter-spacing: 0.3em;
 }
 .features-grid span{
 	width: 231px;
@@ -508,14 +514,24 @@ p.img_slider1{
 	padding:3em 0 0 0;
 }
 .gallery h3{
-	color:#95c2d3;
-	font-size:3em;
-	font-weight:500;
+	font-weight: 600;
+	font-size: 3em;
+    color: #95c2d3;
+    font-variant: normal;
+    text-transform: uppercase;
+    margin-top: 10px;
+    text-align: center!important;
+    letter-spacing: 0.3em;
 }
 .gallery p{
 	color: #666666;
 	line-height: 1.8em;
-	width: 40%;
+	width: 100%;
+    font-variant: normal;
+    margin-top: 10px;
+    text-align: center!important;
+    letter-spacing: 0.1em;
+    
 }
 /*-----*/
 /*----- start-download-----*/
